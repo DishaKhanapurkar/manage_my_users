@@ -1,1 +1,4 @@
-
+jsp-api.jar
+jstl.jar
+mysql-connector-java.jar
+servlet-api.jar
